@@ -4,8 +4,6 @@ Deep learning–based visual recognition system for identifying plastic types (e
 
 ####
 import kagglehub
-
-# Download latest version
 path = kagglehub.dataset_download("harshitkandoi7850/dataset-for-visual-plastic-type-recognition")
 
 print("Path to dataset files:", path)
